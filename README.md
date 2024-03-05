@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Salut, je suis Ouattara Ngolo !
 
-<!--
-**gnonhouaDev/gnonhouaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en développement passionné par le monde du code, et je m'immerge actuellement dans l'apprentissage du JavaScript,Php,css etd'autres technologies. Je suis ouvert à la collaboration avec des développeurs du monde entier pour créer quelque chose de génial ! 😊
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Étudiant en développement
+- 💻 Actuellement en train d'apprendre JavaScript,php,etc...
+- 🌐 Ouvert à la collaboration et à l'apprentissage
+- 🎯 Objectif : Explorer de nouvelles technologies et contribuer à des projets passionnants
+
+## 🛠️ Compétences
+
+- HTML, CSS
+- JavaScript (en cours d'apprentissage)
+- php
+- vuejs
+- xd
+
+## 🤝 Collaborons ensemble !
+
+Je serais ravi de travailler sur des projets intéressants et d'apprendre en collaborant avec d'autres développeurs talentueux. Si vous avez des idées ou des projets auxquels je pourrais contribuer, n'hésitez pas à me contacter !
+
+## 📬 Comment me joindre
+
+- 📧 gnonhouangoloouattara@gmail.com
+- 💼 https://www.linkedin.com/in/gnonhoua-n-golo-nouhoun-ouattara-074806220/
+N'hésitez pas à me contacter pour discuter de tout projet intéressant ou simplement pour échanger des idées. Ensemble, créons quelque chose de génial ! 🚀
