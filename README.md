@@ -1,28 +1,28 @@
-# 👋 Salut, je suis Ouattara Ngolo !
+# 👋 Hi, I'm Ouattara Ngolo!
 
-Je suis étudiant en développement passionné par le monde du code, et je m'immerge actuellement dans l'apprentissage du JavaScript,Php,css etd'autres technologies. Je suis ouvert à la collaboration avec des développeurs du monde entier pour créer quelque chose de génial ! 😊
+I'm a development student with a passion for the world of code, and I'm currently immersing myself in learning JavaScript,Php,css andother technologies. I'm open to collaborating with developers from all over the world to create something awesome! 😊
 
-## 🚀 À propos de moi
+## 🚀 About me
 
-- 📚 Étudiant en développement
-- 💻 Actuellement en train d'apprendre JavaScript,php,etc...
-- 🌐 Ouvert à la collaboration et à l'apprentissage
-- 🎯 Objectif : Explorer de nouvelles technologies et contribuer à des projets passionnants
+- 📚 Development student
+- 💻 Currently learning JavaScript,php,etc....
+- 🌐 Open to collaboration and learning
+- 🎯 Goal: Explore new technologies and contribute to exciting projects.
 
-## 🛠️ Compétences
+## 🛠️ Skills
 
 - HTML, CSS
-- JavaScript (en cours d'apprentissage)
+- JavaScript (currently being learned)
 - php
 - vuejs
 - xd
 
-## 🤝 Collaborons ensemble !
+## 🤝 Let's work together!
 
-Je serais ravi de travailler sur des projets intéressants et d'apprendre en collaborant avec d'autres développeurs talentueux. Si vous avez des idées ou des projets auxquels je pourrais contribuer, n'hésitez pas à me contacter !
+I'd love to work on interesting projects and learn by collaborating with other talented developers. If you have any ideas or projects I could contribute to, please don't hesitate to contact me!
 
-## 📬 Comment me joindre
+## 📬 How to reach me
 
 - 📧 gnonhouangoloouattara@gmail.com
 - 💼 https://www.linkedin.com/in/gnonhoua-n-golo-nouhoun-ouattara-074806220/
-N'hésitez pas à me contacter pour discuter de tout projet intéressant ou simplement pour échanger des idées. Ensemble, créons quelque chose de génial ! 🚀
+Feel free to contact me to discuss any interesting project or simply to exchange ideas. Let's create something great together! 🚀
